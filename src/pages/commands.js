@@ -14,7 +14,7 @@ export default function Commands() {
       animate={{ opacity: 1 }}
     >
       <Head>
-        <title>Commands | BOT</title>
+        <title>Commands | BANE</title>
         <meta
           name="description"
           content="Commands page | Minimal and awesome discord bot website created with ❤️ using NextJS"
@@ -27,28 +27,28 @@ export default function Commands() {
         <nav className="accordion arrows" id="commands">
           <header className="box">
             <label htmlFor="acc-close" className="box-title h-color">
-              ⚡ Commands
+               Commands
             </label>
           </header>
           <input type="radio" name="accordion" id="cb1" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb1">
-              Utilities ⚙️
+              Utility commands
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!serverinfo</kbd> -{" "}
+                  <span className="p-color">View information about a server.</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!userinfo</kbd> -{" "}
+                  <span className="p-color">View information about a member or yourself.</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!purge match</kbd> -{" "}
+                  <span className="p-color">Purges messages containing given substring</span>
                 </li>
               </ul>
             </div>
@@ -56,22 +56,22 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb2" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb2">
-              Fun 🐛
+              Fun commands
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!duckduckgo</kbd> -{" "}
+                  <span className="p-color">Search the DuckDuckGo search engine.</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!ttt</kbd> -{" "}
+                  <span className="p-color">Play tic-tac-toe with someone.</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!anime</kbd> -{" "}
+                  <span className="p-color">Search MyAnimeList for anime information.</span>
                 </li>
               </ul>
             </div>
@@ -79,22 +79,22 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb3" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb3">
-              Customization 👀
+              Game commands 
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!react</kbd> -{" "}
+                  <span className="p-color">Play a game of reaction time</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!snake</kbd> -{" "}
+                  <span className="p-color">Play a game of snake</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!memory</kbd> -{" "}
+                  <span className="p-color">Play a game of memory.</span>
                 </li>
               </ul>
             </div>
@@ -103,22 +103,22 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb4" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb4">
-              Gameplay 🎲
+              Configuration Commands
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!wlc-set</kbd> -{" "}
+                  <span className="p-color">welcome system.</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!marry, !divorce, !partner</kbd> -{" "}
+                  <span className="p-color">Marriage system.</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!antilink</kbd> -{" "}
+                  <span className="p-color">antilink system.</span>
                 </li>
               </ul>
             </div>
@@ -127,22 +127,22 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb5" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb5">
-              Image 🖼️
+              Nsfw Commands
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!hentai</kbd> -{" "}
+                  <span className="p-color">hentai content.</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!nsfw</kbd> -{" "}
+                  <span className="p-color">nsfw images.</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>!ass</kbd> -{" "}
+                  <span className="p-color">ass images.</span>
                 </li>
               </ul>
             </div>
