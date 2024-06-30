@@ -11,7 +11,7 @@ const JoinNow = () => {
           Invite bane to your Discord server{" "}
         </div>
         <button className="btn">
-          <Link className="h-color no-decoration" href="https://discord.gg/ka9Sdrxw">
+          <Link className="h-color no-decoration" href="https://discord.com/oauth2/authorize?client_id=1229920610721726485&permissions=8&integration_type=0&scope=bot">
             Invite bane
           </Link>
         </button>
