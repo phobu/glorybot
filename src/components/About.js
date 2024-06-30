@@ -12,7 +12,7 @@ const About = () => {
             <div>
               <h4 className="h-color">Commands</h4>
               <p className="p-color">
-                Bane offers 600 commands.
+                Bane offers 200 commands.
               </p>
               <hr />
             </div>
@@ -26,7 +26,7 @@ const About = () => {
             <div>
               <h4 className="h-color">🌎 Customization</h4>
               <p className="p-color">
-                An all-in-one bot, user-focused commands, and is completely free!
+                An all-in-one bot, user-focused commands.
               </p>
               <hr />
             </div>
@@ -49,7 +49,7 @@ const About = () => {
           </div>
           <div className="about-stats-card">
             <h4 className="h-color">10k+</h4>
-            <p className="p-color">Total Commands</p>
+            <p className="p-color">Total used Commands</p>
           </div>
         </section>
       </section>
