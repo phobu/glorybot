@@ -5,14 +5,14 @@ const JoinNow = () => {
     <>
       <section className="joinUs">
         <div className="h-color joinUs-header">
-          <h3>Join us now!</h3>
+          <h3>bane!</h3>
         </div>
         <div className="joinUs-para p-color">
-          Invite our bot to your Discord server!{" "}
+          Invite bane to your Discord server{"https://discord.gg/ka9Sdrxw"}
         </div>
         <button className="btn">
           <Link className="h-color no-decoration" href="#">
-            Invite now!
+            Invite bane
           </Link>
         </button>
       </section>
