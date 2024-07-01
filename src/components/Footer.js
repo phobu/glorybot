@@ -43,7 +43,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/nj7R8Hhcqa">
+                <Link className="p-color" href="https://discord.gg/JqcF6tX4Yd">
                   /support
                 </Link>
               </li>
@@ -70,15 +70,15 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="#">
+            <Link className="p-color no-decoration" href="https://discord.gg/JqcF6tX4Yd">
               /support
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://discord.gg/nj7R8Hhcqa"
+              href="https://discord.com/channels/@vxkl"
             >
-              /source-code
+              /owner
             </Link>
             <Link className="p-color no-decoration" href="#">
               /privacy
