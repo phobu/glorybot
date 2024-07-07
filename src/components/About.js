@@ -12,7 +12,7 @@ const About = () => {
             <div>
               <h4 className="h-color">Commands</h4>
               <p className="p-color">
-                Bane offers 200 commands.
+                Bane offers 226 commands.
               </p>
               <hr />
             </div>
@@ -44,7 +44,7 @@ const About = () => {
             <p className="p-color">Total Guilds</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">2k+</h4>
+            <h4 className="h-color">200</h4>
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
