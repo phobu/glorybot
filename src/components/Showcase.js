@@ -28,7 +28,7 @@ const Showcase = () => {
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="https://pornhub.com/">
+            <Link className="h-color no-decoration" href="https://discord.gg/BrcrwJMbJf">
               Join server!
             </Link>
           </button>
