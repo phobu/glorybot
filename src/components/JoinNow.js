@@ -5,7 +5,7 @@ const JoinNow = () => {
     <>
       <section className="joinUs">
         <div className="h-color joinUs-header">
-          <h3>bane!</h3>
+          <h3>BANE!</h3>
         </div>
         <div className="joinUs-para p-color">
           Invite bane to your Discord server{" "}
