@@ -48,7 +48,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/nj7R8Hhcqa">
+                <Link className="p-color" href="https://discord.gg/BrcrwJMbJf">
                   /discord-server
                 </Link>
               </li>
