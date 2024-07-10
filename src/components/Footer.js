@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bane stats
+                  glory stats
                 </Link>
                 <span
                   style={{
@@ -43,12 +43,12 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/JqcF6tX4Yd">
+                <Link className="p-color" href="https://discord.gg/r3wwQjxFz7">
                   /support
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/BrcrwJMbJf">
+                <Link className="p-color" href="https://discord.gg/r3wwQjxFz7">
                   /discord-server
                 </Link>
               </li>
@@ -61,7 +61,7 @@ const Footer = () => {
             <p className="p-color">
               developed by{" "}
               <Link
-                href="https://www.instagram.com/latvianist"
+                href="https://www.instagram.com/unphobu"
                 className="h-color no-decoration"
               >
                 Latvianist
@@ -70,13 +70,13 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="https://discord.gg/JqcF6tX4Yd">
+            <Link className="p-color no-decoration" href="https://discord.gg/r3wwQjxFz7">
               /support
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://discord.com/channels/@vxkl"
+              href="https://discord.com/channels/@unphobu"
             >
               /owner
             </Link>
