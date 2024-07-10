@@ -13,10 +13,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>BANE</title>
+        <title>Glory</title>
         <meta
           name="description"
-          content="an multi-purpose discord bot."
+          content="a multi-purpose, easy to use discord bot."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
