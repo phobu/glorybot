@@ -10,9 +10,9 @@ const Showcase = () => {
       animate={{ opacity: 1 }}
     >
       <main className="showcase">
-        <h1 className="showcase-header h-color">BANE</h1>
+        <h1 className="showcase-header h-color">Glory</h1>
         <h2 className="showcase-header-text h-color">
-          Give bane a chance today.
+          Give glory a chance today.
         </h2>
         <p className="showcase-para p-color">
           One of the awesome discord bot with tons of commands that will fill
@@ -28,7 +28,7 @@ const Showcase = () => {
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="https://discord.gg/BrcrwJMbJf">
+            <Link className="h-color no-decoration" href="https://discord.gg/r3wwQjxFz7">
               Join server!
             </Link>
           </button>
