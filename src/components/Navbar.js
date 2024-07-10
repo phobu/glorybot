@@ -8,7 +8,7 @@ const Navbar = () => {
           <ul>
             <li>
               <Link className="h-color" href="/">
-                BANE
+                Glory
               </Link>
             </li>
           </ul>
@@ -17,21 +17,21 @@ const Navbar = () => {
           <ul>
             <li>
               <Link className="p-color" href="/">
-                /home
+                home
               </Link>
             </li>
             <li>
               <Link className="p-color" href="/commands">
-                /commands
+                commands
               </Link>
             </li>
             <li>
               <Link
                 className="p-color"
-                href="https://stealthbot.xyz/"
+                href="https://discord.gg/r3wwQjxFz7"
                 target="_blank"
               >
-                /stealth bot
+                support
               </Link>
             </li>
           </ul>
