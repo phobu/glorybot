@@ -148,6 +148,30 @@ export default function Commands() {
             </div>
           </section>
 
+                      <input type="radio" name="accordion" id="cb5" />
+          <section className="box">
+            <label className="box-title p-color" htmlFor="cb5">
+              Moderation Commands
+            </label>
+            <label className="box-close" htmlFor="acc-close"></label>
+            <div className="box-content p-color">
+              <ul>
+                <li>
+                  <kbd>$ban</kbd> -{" "}
+                  <span className="p-color">ban someone.</span>
+                </li>
+                <li>
+                  <kbd>$kick</kbd> -{" "}
+                  <span className="p-color">kick someone.</span>
+                </li>
+                <li>
+                  <kbd>$unban</kbd> -{" "}
+                  <span className="p-color">unban someone.</span>
+                </li>
+              </ul>
+            </div>
+          </section>
+
           <input type="radio" name="accordion" id="acc-close" />
         </nav>
       </section>
