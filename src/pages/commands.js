@@ -14,7 +14,7 @@ export default function Commands() {
       animate={{ opacity: 1 }}
     >
       <Head>
-        <title>Commands | BANE</title>
+        <title>Glory Commands</title>
         <meta
           name="description"
           content="Commands page"
