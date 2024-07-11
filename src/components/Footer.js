@@ -39,17 +39,17 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="p-color" href="/commands">
-                  /commands
+                  commands
                 </Link>
               </li>
               <li>
                 <Link className="p-color" href="https://discord.gg/r3wwQjxFz7">
-                  /support
+                  support
                 </Link>
               </li>
               <li>
                 <Link className="p-color" href="https://discord.gg/r3wwQjxFz7">
-                  /discord-server
+                  discord-server
                 </Link>
               </li>
             </ul>
@@ -64,24 +64,24 @@ const Footer = () => {
                 href="https://www.instagram.com/unphobu"
                 className="h-color no-decoration"
               >
-                Latvianist
+                unphobu
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="https://discord.gg/r3wwQjxFz7">
-              /support
+              support
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
               href="https://discord.com/channels/@unphobu"
             >
-              /owner
+              owner
             </Link>
             <Link className="p-color no-decoration" href="#">
-              /privacy
+              privacy
             </Link>
           </div>
         </div>
