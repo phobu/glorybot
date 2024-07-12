@@ -48,7 +48,7 @@ export default function Commands() {
                 </li>
                 <li>
                   <kbd>$purge</kbd> -{" "}
-                  <span className="p-color">Purges messages containing given substring</span>
+                  <span className="p-color">Purges the amount of messages containing given number.</span>
                 </li>
               </ul>
             </div>
@@ -93,7 +93,7 @@ export default function Commands() {
                   <span className="p-color">Play a game of snake</span>
                 </li>
                 <li>
-                  <kbd>worlde</kbd> -{" "}
+                  <kbd>$worlde</kbd> -{" "}
                   <span className="p-color">Play a game of wordle.</span>
                 </li>
               </ul>
