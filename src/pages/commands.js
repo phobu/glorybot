@@ -39,15 +39,15 @@ export default function Commands() {
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>!serverinfo</kbd> -{" "}
+                  <kbd>$serverinfo</kbd> -{" "}
                   <span className="p-color">View information about a server.</span>
                 </li>
                 <li>
-                  <kbd>!userinfo</kbd> -{" "}
+                  <kbd>$userinfo</kbd> -{" "}
                   <span className="p-color">View information about a member or yourself.</span>
                 </li>
                 <li>
-                  <kbd>!purge match</kbd> -{" "}
+                  <kbd>$purge</kbd> -{" "}
                   <span className="p-color">Purges messages containing given substring</span>
                 </li>
               </ul>
